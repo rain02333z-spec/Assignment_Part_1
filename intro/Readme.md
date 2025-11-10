@@ -43,19 +43,20 @@ IDS-2-DATA  PPT 108页  Over-sampling  Under-sampling
 
 
 ### 3.6 (f)
-
+bins=20 bins更大会产生空箱，太小会丢失信息。
+这个是Equal-width binning  等宽分箱
 
 
 ### 3.7 (g)
-
+可以，从直方图可以看出整体呈现右偏长尾，且高charges人群基本都是obese 肥胖人群。BMI和charges呈现一定的正相关关系，但不绝对。
 
 
 ### 3.8 (h)
-
+无论是BMI，children还是age ，三组点云呈上下分层，说明吸烟者总体的charge显著高于非吸烟者。同时随着年龄增大，charge呈上升趋势，说明了age与charge的正相关性。
 
 
 ### 3.9 (i)
-
+Weaker positive correlation
 
 
 ### 3.10 (j)
